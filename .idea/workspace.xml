@@ -6,23 +6,8 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="634711b4-cfa5-4f46-b486-77d59fe51996" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../springboot/django-demo1/apps/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springboot/django-demo1/apps/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springboot/django-demo1/apps/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springboot/django-demo1/apps/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springboot/django-demo1/apps/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springboot/django-demo1/apps/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springboot/django-demo1/apps/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springboot/django-demo1/apps/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springboot/django-demo1/django-demo1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springboot/django-demo1/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springboot/django-demo1/springboot/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springboot/django-demo1/springboot/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springboot/django-demo1/springboot/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springboot/django-demo1/springboot/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springboot/django-demo1/static/js/jquery-min-3.3.1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springboot/django-demo1/templates/html/user.html" afterDir="false" />
+    <list default="true" id="634711b4-cfa5-4f46-b486-77d59fe51996" name="Default" comment="intellij idea开发的web项目demo">
+      <change beforePath="$PROJECT_DIR$/../springboot/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -115,8 +100,8 @@
       <file leaf-file-name="CityController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../springboot/dubbo-consumer/src/main/java/com/springboot/dubboconsumer/controller/CityController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+            <state relative-caret-position="-71">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -133,20 +118,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="User.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="User.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../springboot/mybatis/src/main/java/com/springboot/mybatis/domain/User.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="9" column="32" lean-forward="true" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+            <state relative-caret-position="400">
+              <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../springboot/django-demo1/springboot/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="256">
-              <caret line="127" column="1" selection-start-line="127" selection-start-column="1" selection-end-line="127" selection-end-column="1" />
+            <state relative-caret-position="309">
+              <caret line="133" lean-forward="true" selection-start-line="133" selection-end-line="133" />
             </state>
           </provider>
         </entry>
@@ -208,15 +193,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="scrapy.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../springboot/python-demon/scrapy/scrapy.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="900">
-              <caret line="49" selection-start-line="49" selection-end-line="49" />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -249,14 +225,19 @@
     </replaceStrings>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../springboot/django-demo1" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../springboot" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
+      </GitPushTagMode>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/dubbo-server/pom.xml" />
-        <option value="$PROJECT_DIR$/dubbo-provider/pom.xml" />
         <option value="$PROJECT_DIR$/dubbo-provider/src/main/java/com/springboot/dubboprovider/domain/City.java" />
         <option value="$PROJECT_DIR$/dubbo-provider/src/main/java/com/springboot/dubboprovider/service/CityService.java" />
         <option value="$PROJECT_DIR$/dubbo-provider/src/main/java/com/springboot/dubboprovider/service/impl/CityServiceImpl.java" />
@@ -306,6 +287,8 @@
         <option value="$PROJECT_DIR$/django-demo1/templates/html/user.html" />
         <option value="$PROJECT_DIR$/mybatis/src/main/java/com/springboot/mybatis/dao/UserMapper.java" />
         <option value="$PROJECT_DIR$/mybatis/src/main/java/com/springboot/mybatis/domain/User.java" />
+        <option value="$PROJECT_DIR$/../springboot/dubbo-consumer/src/main/java/com/springboot/dubboconsumer/controller/CityController.java" />
+        <option value="$PROJECT_DIR$/../springboot/django-demo1/springboot/settings.py" />
       </list>
     </option>
   </component>
@@ -361,11 +344,6 @@
             <path>
               <item name="springboot" type="b2602c69:ProjectViewProjectNode" />
               <item name="springboot" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springboot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springboot" type="462c0819:PsiDirectoryNode" />
-              <item name="django-demo1" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -789,8 +767,23 @@
       <workItem from="1529908723366" duration="56000" />
       <workItem from="1529973429541" duration="1019000" />
       <workItem from="1530172754555" duration="5226000" />
-      <workItem from="1530233360206" duration="1908000" />
+      <workItem from="1530233360206" duration="3557000" />
     </task>
+    <task id="LOCAL-00001" summary="idea使用django框架开发python的web项目demo">
+      <created>1530235581798</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1530235581798</updated>
+    </task>
+    <task id="LOCAL-00002" summary="intellij idea开发的web项目demo">
+      <created>1530235789067</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1530235789067</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -799,7 +792,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="117011000" />
+    <option name="totallyTimeSpent" value="118660000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -811,7 +804,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="0" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="1" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="Event Log" order="15" side_tool="true" />
@@ -831,8 +824,8 @@
       <window_info id="Image Layers" order="3" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Version Control" order="14" weight="0.32913166" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.23422159" />
+      <window_info anchor="bottom" id="Version Control" order="14" weight="0.32819074" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.23422159" />
       <window_info anchor="bottom" id="Spring" order="8" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.32819074" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14395887" />
@@ -853,8 +846,23 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="idea使用django框架开发python的web项目demo" />
+    <MESSAGE value="intellij idea开发的web项目demo" />
+    <option name="LAST_COMMIT_MESSAGE" value="intellij idea开发的web项目demo" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -869,13 +877,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../springboot/mybatis/src/main/java/com/springboot/mybatis/domain/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" column="43" lean-forward="true" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../springboot/dubbo-provider/src/main/java/com/springboot/dubboprovider/service/CityService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
@@ -1109,7 +1110,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../springboot/django-demo1/static/js/jquery-min-3.3.1.js">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../springboot/django-demo1/templates/html/user.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -1138,10 +1145,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../springboot/mybatis/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-447" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../springboot/django-demo1/springboot/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="133" lean-forward="true" selection-start-line="133" selection-end-line="133" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../springboot/dubbo-consumer/src/main/java/com/springboot/dubboconsumer/controller/CityController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+        <state relative-caret-position="-71">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1157,15 +1176,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../springboot/mybatis/src/main/java/com/springboot/mybatis/domain/User.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" column="32" lean-forward="true" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../springboot/django-demo1/springboot/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="127" column="1" selection-start-line="127" selection-start-column="1" selection-end-line="127" selection-end-column="1" />
+        <state relative-caret-position="400">
+          <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
         </state>
       </provider>
     </entry>
